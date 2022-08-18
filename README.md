@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git an dGithub together.
-
+Adding a line for rebasing
 This repository is for showing how Git and GitHub work
 ## Introduction
 
