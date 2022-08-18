@@ -18,3 +18,6 @@ Sample website with plenty of files for demos
 This is a simple web project, deployement can be on any web server or even local file system.
 
 ## How to Contribute
+
+### Copyright
+2014 Git.Training
